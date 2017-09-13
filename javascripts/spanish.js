@@ -1,7 +1,7 @@
 "use strict";
 
 const greetingSpanish = () => {
-	return "Aola";
+	return "Hola";
 };
 
 module.exports = greetingSpanish;
